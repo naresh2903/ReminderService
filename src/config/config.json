@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "root",
+    "password": "password",
+    "database": "REMINDER_DB_DEV",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+ 
+}
